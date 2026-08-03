@@ -11,7 +11,7 @@ export const projects = [
     github: ,
   },
   {
-  id: 9,
+  id: 2,
   title: "Pustak Lab",
   description: "AI-powered digital learning and book discovery platform designed to make knowledge more accessible through intelligent recommendations and interactive learning tools.",
   longDescription: "Pustak Lab is an innovative educational platform that combines AI-driven recommendations, digital resources, and interactive learning experiences to help students discover and engage with knowledge more effectively. The platform enables users to explore books, learning materials, and educational content tailored to their interests and academic goals.",
@@ -21,8 +21,8 @@ export const projects = [
   link: "https://pustak-lab.vercel.app/",
   github: "https://github.com/raghavenderreddy1707/pustak-lab",
 },
-  {
-  id: 10,
+{
+  id: 3,
   title: "KabzaaKar",
   description: "Smart property intelligence platform for land records, property management, ownership tracking and real-estate insights.",
   longDescription: "KabzaaKar is a modern real-estate intelligence platform that helps users manage properties, track ownership information, organize land records and gain location-based insights through an intuitive dashboard. The platform demonstrates full-stack development, database design and scalable architecture.",
@@ -32,8 +32,8 @@ export const projects = [
   link: null,
   github: "https://github.com/raghavenderreddy1707/Kabzaa-Kar",
 },
-  {
-    id: 2,
+{
+    id: 4,
     title: "CultureBot",
     description: "Led development of an interactive web app using GPT-powered conversations and text-to-speech phrasebooks for cultural learning.",
     longDescription: "CultureBot is an interactive cultural learning platform that leverages GPT-powered conversations to help users explore languages and cultures around the world. The app features a conversational chatbot that answers questions about customs, etiquette, and traditions, plus an audio phrasebook powered by text-to-speech so learners can hear correct pronunciation. Built on Streamlit with a Python backend, it was developed as part of a team collaboration with a strong focus on accessibility and real-world usability.",
@@ -44,7 +44,7 @@ export const projects = [
     github: null as string | null,
   },
   {
-    id: 3,
+    id: 5,
     title: "Label-it",
     description: "Directed creation of a community platform with user authentication and backend for uploading and collaboratively tagging images.",
     longDescription: "Label-it is a community-driven image annotation platform where users can upload images and collaboratively tag and label them for use in machine learning datasets. The platform includes user authentication, a backend for managing image uploads and metadata, and a clean collaborative tagging interface. Built during a hackathon, it showcases real-time collaboration, data management, and annotation workflows that are critical for supervised learning pipelines.",
@@ -55,7 +55,7 @@ export const projects = [
     github: null as string | null,
   },
   {
-    id: 4,
+    id: 6,
     title: "Nexa: AI Voice Agent",
     description: "Engineered a voice-enabled AI agent for an intuitive conversational user experience.",
     longDescription: "Nexa is a voice-enabled AI agent designed to deliver a seamless, hands-free conversational experience in the browser. Users speak naturally and Nexa responds with intelligent, context-aware answers using browser-native Web Speech API for both recognition and synthesis. Built entirely with HTML, CSS, and JavaScript — no heavy frameworks — the lightweight architecture ensures fast load times, zero install friction, and broad device compatibility.",
@@ -66,7 +66,7 @@ export const projects = [
     github: null as string | null,
   },
   {
-    id: 5,
+    id: 7,
     title: "Text Humanizer",
     description: "Developed a single-page tool that rephrases and enhances AI-generated text to sound more natural and human.",
     longDescription: "Text Humanizer is a focused single-page web tool that takes AI-generated or robotic-sounding text and transforms it into natural, engaging prose. It identifies and removes telltale AI writing patterns — repetitive sentence structures, unnatural phrasing, and overly formal tone — replacing them with fluid, human-sounding language. A practical utility for writers, students, and content creators who want polished, authentic output from their AI drafts.",
@@ -77,7 +77,7 @@ export const projects = [
     github: null as string | null,
   },
   {
-    id: 6,
+    id: 8,
     title: "Alcohol Detection System",
     description: "Created a vehicle safety system using an Arduino sensor and embedded C++ to detect alcohol and trigger safety alerts.",
     longDescription: "This hardware project implements a real-time vehicle safety system using an MQ-3 alcohol sensor interfaced with an Arduino Uno microcontroller. The system continuously monitors the ambient alcohol concentration near the driver and triggers audio and visual alerts — a buzzer and LED array — when the detected level exceeds a safe threshold. Written in embedded C++, the project demonstrates practical IoT design, sensor calibration, and safety-critical embedded systems programming.",
@@ -88,7 +88,7 @@ export const projects = [
     github: null as string | null,
   },
   {
-    id: 8,
+    id: 9,
     title: "Sanatan Chronicles — YouTube Channel",
     description: "A YouTube channel dedicated to exploring the stories, philosophy, and culture of Sanatan Dharma through engaging video content.",
     longDescription: "Sanatan Chronicles is a YouTube channel focused on bringing the rich heritage, philosophy, and timeless stories of Sanatan Dharma to a modern audience. Each video is carefully researched, scripted, and edited to be both informative and visually engaging — combining narration, motion graphics, and thoughtful pacing to make ancient wisdom accessible. This channel is where the video editing and content creation skills come to life.",
